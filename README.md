@@ -28,4 +28,19 @@ Test case 5
 
 ![172070800-2e883670-1e34-45da-9be3-34463f9ae44a](https://github.com/Daizon99/SEG3503-Lab-2/assets/114030630/bd5e5600-b050-4eb4-ae1a-fafcb2e46f91)
 
+Les résultats susmentionnés sont résumés dans le tableau suivant :
+|   Cas de test   |        Résultats escomptées        |       Résultats actuels          |   Verdict   |
+|:---------------:|:----------------------------------:|:--------------------------------:|:-----------:| 
+|        1        |   Demande d’inscription acceptée   |		  ERR4 et ERR5		|    Échec    |
+|        2        |   Demande d’inscription acceptée   |  Demande d’inscription acceptée  |    Succès   |
+|        3        |   Demande d’inscription acceptée   | 		  ERR4 et ERR5		|    Échec    |
+|        4        |   Demande d’inscription acceptée   |  Demande d’inscription acceptée  |    Succès   |
+|        5        |  		     ERR1                |        ERR3, ERR4, et ERR5		|    Échec    |
+
+
+- ERR1: Wrong UserName format
+ - ERR3: Size must be between 6 and 12
+ - ERR4: Wrong FirstName format
+ - ERR5: Wrong LastName format
+
 
