@@ -44,3 +44,12 @@ Les résultats susmentionnés sont résumés dans le tableau suivant :
  - ERR5: Wrong LastName format
 
 
+Part 2:
+
+
+![172077906-ec06c04b-0d7e-417f-b2e3-ada118e22d70](https://github.com/Daizon99/SEG3503-Lab-2/assets/114030630/700555a9-932f-4c82-9a8b-08b1b3865d52)
+
+
+![172077909-c48fabc9-0d0e-48d3-bb7a-f0519f81ed09](https://github.com/Daizon99/SEG3503-Lab-2/assets/114030630/4cafc140-63d0-444c-86f2-b34668db57f5)
+
+
